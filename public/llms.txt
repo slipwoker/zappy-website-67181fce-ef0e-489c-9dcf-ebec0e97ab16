@@ -1,0 +1,70 @@
+# יאללה כושר — Generative Engine Optimization Map
+
+> A fitness trainer looking to create a landing page to showcase their personal training services and attract new clients.
+
+---
+
+## Pages
+
+### בית
+https://-67181fce.zappy5.app
+מאמן כושר אישי מקצועי עם תוכנית אימון מותאמת אישית ל-12 שבועות. הגיעו לתוצאות אמיתיות, חזקו את הביטחון והרגישו נהדר. קבעו פגישת היכרות עוד היום!
+
+### תודה שפניתם | יאללה כושר
+https://-67181fce.zappy5.app/thank-you
+יאללה כושר - תודה שפניתם | יאללה כושר
+
+## Legal & Policy
+
+### Privacy Policy
+https://-67181fce.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-67181fce.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-67181fce.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-67181fce.zappy5.app
+- Endpoint: https://-67181fce.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About יאללה כושר
+A fitness trainer looking to create a landing page to showcase their personal training services and attract new clients.
+
+## Target Audience
+- עובדי משרד ממוקדי בריאות
+- אימהות צעירות המחפשות כושר
+- גמלאים השואפים לאורח חיים פעיל
+
+## Industry
+Fitness & Personal Training
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-67181fce.zappy5.app/sitemap.xml
+- Robots: https://-67181fce.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-67181fce.zappy5.app/llms-full.txt
