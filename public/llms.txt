@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://yalla-kosher.zappy5.app
 מאמן כושר אישי מקצועי עם תוכנית אימון מותאמת אישית ל-12 שבועות. הגיעו לתוצאות אמיתיות, חזקו את הביטחון והרגישו נהדר. קבעו פגישת היכרות עוד היום!
 
 ### תודה שפניתם | יאללה כושר
-https://example.com/thank-you
+https://yalla-kosher.zappy5.app/thank-you
 יאללה כושר - תודה שפניתם | יאללה כושר
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://yalla-kosher.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://yalla-kosher.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://yalla-kosher.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://yalla-kosher.zappy5.app
+- Endpoint: https://yalla-kosher.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -65,6 +65,6 @@ Fitness & Personal Training
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://yalla-kosher.zappy5.app/sitemap.xml
+- Robots: https://yalla-kosher.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://yalla-kosher.zappy5.app/llms-full.txt
